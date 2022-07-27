@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jorge Paredes (@jparedes-m)
 - 👀 I’m interested in economics, statistics and programming
 - 🌱 I’m currently learning: Julia, Python, Stata, R, Matlab
-- 💞️ I’m looking to collaborate on package creation in R
 - 📫 Reach me at jparedes.m@protonmail.com
 
 <!---
